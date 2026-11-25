@@ -1,1 +1,1 @@
-This directory contains post-processed 1D and 3D electromagnetic simulation outputs for the S-band WR-430 rectangular waveguide. Included plots validate the TE10 cutoff frequency (1.7349 GHz), 2-4 GHz S-parameters (S11,S21), and 3GHz E/H field distributions.  
+This directory contains post-processed 1D and 3D electromagnetic simulation outputs for the S-band WR-430 rectangular waveguide. Included plots validate the TE10 cutoff frequency (1.7349 GHz), 2-4 GHz S-parameters (S11, S21), and 3GHz E/H field distributions.  
